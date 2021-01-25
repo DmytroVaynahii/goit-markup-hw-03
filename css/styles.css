@@ -91,8 +91,8 @@ p {
     color:var(--accent-color);
 }
 
-.logotype-header:hover,
-.logotype-header:focus {
+.header-logo:hover,
+.header-logo:focus {
   color: var(--black-color);
 }
 
