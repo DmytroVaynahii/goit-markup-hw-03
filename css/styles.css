@@ -81,6 +81,7 @@ p {
     padding-bottom: 24px;
     margin-right: 92px;
     font-family: Raleway, sans-serif;
+    color: var(--black-color);
     font-weight: var(--bold-font-weight);
     font-size: 26px;
     line-height: 1.192;
